@@ -1,0 +1,2 @@
+ini adalah file teks.txt di repo branch
+ini baris kedua di file branch
